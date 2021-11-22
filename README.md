@@ -21,9 +21,7 @@ In 2018 only 2 of the stocks were able to increase their values.  The other 10 s
 ![stock analysis for 2018](/kickstarter-analysis/Resources/Theater_Outcomes_Vs_Launch)
 
 - *Compare the execution times of the original script vs. the refactored script*
-The refactored script was quicker for both years than the original script.  The original script did not use arrays for the various values and output
-the data after it analyzed each individual stock.  This required going back and forth between the worksheets after every loop.  Using arrays for the 
-values allowed the refactored script to just go back to the output worksheet after everything had been calculated write the results with a new loop.
+The refactored script was quicker for both years than the original script.  The original script did not use arrays for the various values and output the data after it analyzed each individual stock.  This required going back and forth between the worksheets after every loop.  Using arrays for the values allowed the refactored script to just go back to the output worksheet after everything had been calculated write the results with a new loop.
 
 ## Summary
 
@@ -31,6 +29,4 @@ values allowed the refactored script to just go back to the output worksheet aft
 Refactoring code is intended to make code work more efficiently and be easier to read.  It will largely depend upon the intial code that you start with.
 
 - *How do these pros and cons apply to refactoring the original VBA script?*
-The original script did not use arrays for the various values and output the data after it analyzed each individual stock.  
-This required going back and forth between the worksheets after every loop.  Using arrays for the values allowed the refactored script to 
-just go back to the output worksheet after everything had been calculated write the results with a new loop.
+The original script did not use arrays for the various values and output the data after it analyzed each individual stock. This required going back and forth between the worksheets after every loop.  Using arrays for the values allowed the refactored script to just go back to the output worksheet after everything had been calculated write the results with a new loop.
